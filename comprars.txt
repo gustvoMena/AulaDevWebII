@@ -2,3 +2,4 @@ arroz
 feijão
 salada
 carne
+batata
